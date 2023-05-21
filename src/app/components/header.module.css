@@ -1,0 +1,20 @@
+.header{
+  background-color: antiquewhite;
+  padding: 20px;
+  display: flex;
+}
+
+.header__ttl{
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.header__nav{
+  display: flex;
+  list-style: none;
+  margin-left: 20px;
+}
+
+.header__nav li{
+  margin: 0 20px;
+}
